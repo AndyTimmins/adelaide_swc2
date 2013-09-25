@@ -1,3 +1,8 @@
+# comment
+
+class UnknownBaseEception(Exception):
+    pass
+
 def dnaContent
 
 passes = 0    
